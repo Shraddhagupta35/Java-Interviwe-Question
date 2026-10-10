@@ -1,7 +1,5 @@
 package OOPS;
 
-public class Static {
-                    // static keyword
 
 //                     issue code
 
@@ -38,38 +36,4 @@ public class Static {
       
     } 
                                                      // OR 
-/* 
-    public static void main(String[] args) {
-
-      Students s1 = new Students();
-      s1.schoolname = "JVM";
-
-      Students s2 = new Students();
-      System.out.println(s2.schoolname);
-      
-    }
-}
-
-    class Students{
-
-      String name; 
-      int roll;
-
-
-      static String schoolname;
-
-
-      void setname(String name){
-        this.name = name;
-      }
-
-
-      String getname(){
-        return this.name;
-      }
-    } 
-  */
-
-    
-    
 
